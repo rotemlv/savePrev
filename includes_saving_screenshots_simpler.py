@@ -1,5 +1,4 @@
-# todo: currently identical to noshow because I made the changes before thinking
-# actually nothing todo here but I need to revert the noshow back to the basic example
+# clean this up a bit maybe and add a basic gui or smth
 
 import time
 
